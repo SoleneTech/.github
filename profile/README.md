@@ -1,12 +1,11 @@
-## Hi there 👋
+# Solene
 
-<!--
+Nossa missão é se tornar a "_Cloud_" para o meio juridico nacional. Trabalhamos na construção de um ecossistema robusto no mundo das _LawTech_.
 
-**Here are some ideas to get you started:**
+## Contribuições
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Procuramos colaboradores engajados. Consulte nossas [vagas](https://solene.cloud/jobs) para participar.
+
+## Entre em Contato
+
+Para mais informações, visite [nosso site](https://solene.cloud) ou entre em contato via [contact@solene.tech](mailto:contact@solene.tech).
